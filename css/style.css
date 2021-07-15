@@ -1,0 +1,17 @@
+.cyan {
+	font-size: 4rem;
+	color: white;
+	background-color: darkcyan;
+	padding-bottom: 15px;
+}
+
+.black {
+	color: white;
+	padding: 0.5em;
+  	background-color: #008b8ba3;
+  	border-radius: 5px;
+}
+
+.w3s {
+	font-size: 3rem;
+}
